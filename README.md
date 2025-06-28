@@ -27,3 +27,7 @@ This project helped me strengthen my understanding of key web development concep
 In the future, this project can be expanded by adding new features like weather icons, unit toggling between Celsius and Fahrenheit, location-based weather using the Geolocation API, and a 5-day weather forecast. These additions would not only enhance the app's functionality but also allow further learning in more advanced JavaScript topics.
 
 Overall, this Weather App is a compact and effective project that showcases the integration of web technologies and third-party APIs. It is ideal for beginners who want to learn how to build interactive web applications using JavaScript and is a strong addition to any portfolio. It reflects my growing skills in frontend development and is a solid foundation for more complex JavaScript-based applications in the future.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/9bc6c9d4-fe41-477c-8578-a07500d918a6)
